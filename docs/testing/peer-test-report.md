@@ -11,7 +11,7 @@
 | Test environment | See Section 1 |
 | Test date | 2 November 2026 |
 | Report branch | `test/issue-26-peer-qa` |
-| Report PR | _(filled in after the pull request is opened)_ |
+| Report PR | [#35 — Add peer test report for issue #26](https://github.com/bos-com/bugema-linux/pull/35) |
 
 ---
 
@@ -237,4 +237,4 @@ addresses F1/F2, the reviewer will re-verify and record the outcome here.
 - Contribution issue: https://github.com/bos-com/bugema-linux/issues/26
 - Contribution pull request: https://github.com/bos-com/bugema-linux/pull/31
 - Contribution commit: `9440091edf22918e58682070a1dddea84f4f040f`
-- This report's pull request: _(added once opened)_
+- This report's pull request: https://github.com/bos-com/bugema-linux/pull/35
